@@ -1,18 +1,104 @@
-# My-Analytics-Application-Experience-
+                                                                    |___/
+# 🌟 My Analytics Application Experience
 
+> A reflection on my journey with EDA, Inferential Regression, and Machine Learning Regression, using the CRISP-DM framework and a business-focused mindset.
 
-3.1. What are the challenges I experienced in doing EDA, Inferential Regression Analysis, and Regression for Machine Learning?
+---
 
-Throughout the midterm tasks, I faced several challenges while working on Exploratory Data Analysis, Inferential Regression, and Machine Learning Regression. During EDA, I struggled with understanding the dataset fully because of issues like missing values, inconsistent formatting, and outliers that affected the accuracy of my insights. It was also difficult to interpret visualizations when multiple variables interacted with each other. In Inferential Regression, I found it challenging to understand regression coefficients, p-values, and the assumptions required for regression analysis. Translating statistical outputs into meaningful conclusions was especially hard. Meanwhile, in Machine Learning Regression, the challenges became more technical. I had difficulty choosing appropriate features, preparing the data correctly, interpreting performance metrics, and avoiding overfitting. Understanding why one model performed better than another was also something that took time to grasp.
+## 📚 Table of Contents
 
+- [3.1 Challenges I Experienced](#31-challenges-i-experienced-in-eda-inferential-regression-analysis-and-regression-for-machine-learning)
+- [3.2 Why These Challenges Happened & What I Learned](#32-why-did-these-challenges-happen--what-did-i-learn)
+- [3.3 What I Need to Do Better Next Time](#33-what-i-need-to-do-better-next-time)
 
+---
 
-3.2. What could have been the reasons why such an event happened? What are the things I learned that will help me improve?
+## 3.1. Challenges I Experienced in EDA, Inferential Regression Analysis, and Regression for Machine Learning
 
-These challenges happened mainly because many of the concepts, tools, and techniques were still new to me. Real-world data is rarely clean, so encountering missing values, noise, and outliers made the analysis more complicated than expected. I was also learning how to use multiple tools at once, such as Jupyter Notebook, pandas, scikit-learn, and visualization libraries, which added to the difficulty. Another reason was the gap between theory and practice—understanding a concept in class is different from applying it to an actual dataset. I also realized that interpreting results from a business perspective requires a different mindset than simply producing numbers. From these experiences, I learned the importance of thorough data cleaning, checking statistical assumptions, documenting each step clearly, and always connecting technical findings to real-world implications. These lessons helped me understand how to approach analytics more carefully and confidently.
+Throughout the midterm tasks, I faced several challenges while working on **Exploratory Data Analysis (EDA)**, **Inferential Regression**, and **Machine Learning Regression**.
 
+### 🔍 Exploratory Data Analysis (EDA)
 
+During EDA, I struggled with fully understanding the dataset because of several issues:
 
-3.3. What do I need to do better next time?
+- Handling **missing values**, **inconsistent formatting**, and **outliers**, which affected the accuracy of my insights.
+- Difficulty interpreting visualizations when **multiple variables interacted** with each other.
+- Uncertainty about which plots were most appropriate for showing relationships and trends.
 
-Next time, I want to improve by spending more time analyzing the quality of my data before jumping into modeling. This includes checking for missing values, fixing inconsistencies, and identifying outliers early on. I plan to practice interpreting correlations, regression outputs, and model metrics in simpler and more meaningful terms. I also want to follow the CRISP-DM framework more consistently so my notebooks are clearer and better organized. Strengthening my understanding of regression assumptions and model evaluation will help me avoid common mistakes. Lastly, I aim to improve how I communicate insights by focusing more on the business implications, since this is a key skill for analytics and business analyst roles. By applying these improvements, I believe I can produce more accurate analyses and more professional, insightful work in the future.
+These made it harder for me to clearly see the story behind the data.
+
+### 📉 Inferential Regression Analysis
+
+In Inferential Regression, I encountered more conceptual challenges:
+
+- Understanding **regression coefficients**, **p-values**, and **confidence intervals** was not straightforward at first.
+- I found it difficult to remember and check the **assumptions of regression**, such as linearity, normality, and homoscedasticity.
+- Translating the statistical outputs into **meaningful, real-world conclusions** was especially challenging.
+
+I realized that knowing how to run a regression is different from being able to clearly explain what the results actually mean.
+
+### 🤖 Regression for Machine Learning
+
+When I moved to Machine Learning Regression, the challenges became more technical:
+
+- Difficulty in **selecting appropriate features** and preparing the data correctly (encoding, scaling, splitting).
+- Struggles with **interpreting performance metrics** like MAE, RMSE, and R².
+- Concerns about **overfitting** and understanding why one model performed better than another.
+- Confusion about how to connect the model results back to the **business problem** or real-life decision-making.
+
+All of these made the machine learning part feel both interesting and overwhelming at the same time.
+
+---
+
+## 3.2. Why Did These Challenges Happen? What Did I Learn?
+
+These challenges happened mainly because many of the concepts, tools, and techniques were still **new to me**.
+
+### 🧠 Reasons Behind the Challenges
+
+- **Real-world data is rarely clean**, so encountering missing values, noise, and outliers made the analysis more complicated than I initially expected.
+- I was still learning how to use multiple tools simultaneously, such as **Jupyter Notebook**, **pandas**, **scikit-learn**, and various **visualization libraries**.
+- There was a clear **gap between theory and practice**—understanding a concept in class is very different from applying it to an actual dataset.
+- I also realized that interpreting results from a **business perspective** requires a different mindset than simply producing numbers and graphs.
+
+All of this contributed to why some steps felt slower, more confusing, or more difficult.
+
+### 🎓 Lessons That Will Help Me Improve
+
+From these experiences, I learned several important things that will guide how I work in the future:
+
+- The importance of **thorough data cleaning** before moving to analysis or modeling.
+- The need to **check statistical assumptions** to ensure that my interpretations are valid.
+- The value of **documenting each step clearly** in my notebook so that the process is transparent and reproducible.
+- The importance of always connecting **technical findings to real-world implications**, especially from a **business and decision-making perspective**.
+- Following a structured approach like **CRISP-DM** (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment) makes the process clearer and more logical.
+
+These lessons are already helping me approach analytics tasks more carefully and confidently.
+
+---
+
+## 3.3. What I Need to Do Better Next Time
+
+Next time, I want to apply what I’ve learned so I can work more efficiently and produce more meaningful insights.
+
+### 📈 Areas I Want to Improve
+
+- **Spend more time on data quality** before modeling:
+  - Check for missing values, duplicates, and inconsistencies.
+  - Identify and handle outliers early in the process.
+- **Practice interpreting correlations and regression outputs** in simpler, more intuitive terms:
+  - Explain whether relationships are strong/weak, positive/negative.
+  - Describe what happens to the target variable when a predictor changes.
+- **Follow the CRISP-DM framework more consistently**:
+  - Start with clear **Business Understanding** so that every step is aligned with the problem.
+  - Make sure that **Evaluation** includes both technical performance and business interpretation.
+- **Strengthen my understanding of model assumptions and metrics**:
+  - Learn when to use certain models and how to evaluate them properly.
+  - Be more comfortable explaining MAE, RMSE, R², and other metrics.
+- **Improve how I communicate insights**:
+  - Focus more on the **business implications** of the results.
+  - Answer questions like “So what?” and “What should we do next?” in my conclusions.
+
+By applying these improvements, I believe I can produce more accurate analyses and more **professional, insightful work** that is aligned with the expectations for **analytics and business analyst roles**.
+
+---
