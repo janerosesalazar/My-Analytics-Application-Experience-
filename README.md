@@ -1,5 +1,5 @@
 
-# 🌟 My Analytics Application Experience
+# 🌟 CIS221 Course- My Analytics Application Experience
 
 > A reflection on my journey with EDA, Inferential Regression, and Machine Learning Regression, using the CRISP-DM framework and a business-focused mindset.
 
